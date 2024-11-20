@@ -6,8 +6,8 @@
 <a href="https://www.linkedin.com/in/gustavo-adolfo-g%C3%B3mez-sandoval-9a0123292/" target="_blank">
   <img src = "https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2" alt = "linkedin" />
 </a>
-<a href="https://www.linkedin.com/in/gustavo-adolfo-g%C3%B3mez-sandoval-9a0123292/" target="_blank">
-  <img src = "https://t.me/+573227914554" alt = "telegram" />
+<a href="https://t.me/+573227914554" target="_blank">
+  <img src = "https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=%2326A5E4" alt = "telegram" />
 </a>
 <a href="https://wa.me/+573227914554" target="_blank">
   <img src = "https://img.shields.io/badge/whatsapp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=%2325D366" alt = "whatsapp" />
