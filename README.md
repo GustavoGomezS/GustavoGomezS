@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="250" height="700" alt="Shimarin" src="https://i.imgur.com/dYq0Kdk.png"/>
+<img align="right" width="250" height="700" alt="Shimarin" src="https://i.imgur.com/dYq0Kdk.png"></img>
 <a href="https://www.linkedin.com/in/gustavo-adolfo-g%C3%B3mez-sandoval-9a0123292/" target="_blank">
   <img src = "https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2" alt = "linkedin" />
 </a>
@@ -63,8 +63,8 @@
       <p>– Jim Ryun</p>
      </div>
   <h2> / Github Stats/</h2>
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGomezS&langs_count=5&theme=tokyonight&layout=compact" alt="Gustavo :: Top Langs" />    
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=GustavoGomezS&show_icons=true&theme=tokyonight&layout=compact" alt="Gustavo :: Stast" />    
+<img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGomezS&langs_count=5&theme=tokyonight&layout=compact" alt="Gustavo :: Top Langs" />    
+<img align="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=GustavoGomezS&show_icons=true&theme=tokyonight&layout=compact" alt="Gustavo :: Stast" />    
 
 </div>
 
