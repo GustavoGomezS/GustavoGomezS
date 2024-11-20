@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/2VRw2gi.png"/>
 <a href="https://www.linkedin.com/in/gustavo-adolfo-g%C3%B3mez-sandoval-9a0123292/" target="_blank">
   <img src = "https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2" alt = "linkedin" />
 </a>
@@ -17,9 +17,11 @@
 </a>
 <h3> / About me /</h3>
   
-- ⭐ currently working on **web-development**
-- 💀 mostly working on **private repositories**
-- 👾 a **student** working his way around things
+- ⭐ Training myself daily as a **web developer**
+- 💀 Currently working in **technology support**
+- 👾 A **student** making his way through things
+
+
   
 <h3> / Current skills / </h3>
   
