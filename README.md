@@ -59,7 +59,8 @@
 
   
     <div align="right">
-    <a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
+    <h5>“Motivation drives us to start and habit keeps us on track.”</h5>
+      <p>– Jim Ryun</p>
   </div>
   <h2> / Github Stats/</h2>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGomezS&langs_count=5&theme=tokyonight&layout=compact" alt="Gustavo :: Top Langs" />    
