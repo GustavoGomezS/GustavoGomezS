@@ -15,13 +15,13 @@
 <a href="mailto:gusadgosa9805@" target="_blank">
   <img src = "https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%23EA4335" alt = "gmail" />
 </a>
-<h2> / About me /</h2>
+<h3> / About me /</h3>
   
 - ⭐ currently working on **web-development**
 - 💀 mostly working on **private repositories**
 - 👾 a **student** working his way around things
   
-<h2> / Current skills / </h2>
+<h3> / Current skills / </h3>
   
 - <h4> Languages </h4>
   
