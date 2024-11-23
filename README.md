@@ -45,7 +45,7 @@
   <img src = "https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&labelColor=f8f8ff" alt = "bootstrap5" />
   <img src = "https://img.shields.io/badge/JQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=%230769AD&labelColor=f8f8ff" alt = "jquery" />
 
-  - <h5> Development tools </h5>
+  - <h5> Development and management project tools </h5>
     <img src = "https://img.shields.io/badge/VS%20code-%232496ED?style=for-the-badge&logoColor=white&labelColor=%232496ED" alt = "Postman" />
     <img src = "https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=%23FF6C37" alt = "Postman" />
     <img src = "https://img.shields.io/badge/asana-%23F06A6A?style=for-the-badge&logo=asana&logoColor=white&labelColor=%23F06A6A" alt = "asana" />
