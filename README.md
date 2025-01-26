@@ -1,8 +1,8 @@
-<p align = center ><img src="https://i.imgur.com/OugcoEW.png"> </p>
+<p align = center ><img src="https://drive.google.com/uc?export=view&id=1sH6dWQE7TQ50PZoP_h4OhPLWmBd5tTmW"> </p>
 
 <div>
 
-<img align="right" width="250" height="700" alt="Shimarin" src="https://i.imgur.com/dYq0Kdk.png"></img>
+<img align="right" width="250" height="700" alt="Shimarin" src="https://drive.google.com/uc?export=view&id=1vuBPRq6UJIH9xvwMGWxzvPIgToxMRQiz"></img>
 <a href="https://www.linkedin.com/in/gustavo-adolfo-g%C3%B3mez-sandoval-9a0123292/" target="_blank">
   <img src = "https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2" alt = "linkedin" />
 </a>
@@ -49,7 +49,7 @@
     <img src = "https://img.shields.io/badge/VS%20code-%232496ED?style=for-the-badge&logoColor=white&labelColor=%232496ED" alt = "Postman" />
     <img src = "https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=%23FF6C37" alt = "Postman" />
     <img src = "https://img.shields.io/badge/asana-%23F06A6A?style=for-the-badge&logo=asana&logoColor=white&labelColor=%23F06A6A" alt = "asana" />
-    <img src = "https://img.shields.io/badge/Trello-%230052CC?style=for-the-badge&logo=trello&labelColor=%230052CC" alt = "asana" />
+    <img src = "https://img.shields.io/badge/Trello-%230052CC?style=for-the-badge&logo=trello&labelColor=%230052CC" alt = "tello" />
     <img src = "https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717" alt = "github" />
     
 - <h4> Operating Systems </h4>
